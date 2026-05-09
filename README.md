@@ -4,6 +4,8 @@ This repository contains a solution for the [Kaggle Titanic challenge](https://w
 
 ## Project Overview
 
+*Note for fast readers: See the project walk through by clicking the `Project_Classification_Titanics.ipynb` file above*
+
 The project is implemented in a Jupyter Notebook and follows a standard data science workflow:
 1.  **Data Exploration:** Initial analysis using `pandas` (head, tail, info, describe) to understand the dataset structure and identify missing values.
 2.  **Data Insights:** Categorical and numerical analysis to identify patterns in survival rates (e.g., survival by class, gender, and age).
